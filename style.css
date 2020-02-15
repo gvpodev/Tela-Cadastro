@@ -1,0 +1,14 @@
+*{
+	font-family: Arial;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+.salvar input{
+	width: 100%;
+	border-radius: 5px;
+}
+.tabela{
+	border-radius: 5px;
+}
